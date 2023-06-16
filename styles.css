@@ -79,7 +79,7 @@
     font-size: 3em;
     cursor: pointer;
     color: #ff0000
-    transform: translateY(-1);
+    transform: translateY(-30vh);
 }
 
 .container .popup-text p{
