@@ -101,6 +101,7 @@
 @media (max-width:768px){
     .container .popup-text text {
         width:95%;
+        heght:95%;
     }
   }
 
