@@ -63,7 +63,8 @@
  left: 35%;
  transform: translate(-50%, -50%);
  width: 30vm;
- padding: 30vm;
+    height: 30vm;
+ padding: 20px;
  display: none;
  text-align: center;
   animation-name: slideIn;
