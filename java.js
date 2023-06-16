@@ -35,12 +35,3 @@ function closePopup() {
         popUp.style.animationName = '';
     }, 800);
 }
-
-const siblingElement = document.querySelector('.popup-text p');
-const element = document.querySelector('.popup-text .close');
-
-
-const siblingHeight = siblingElement.offsetHeight;
-
-
-element.style.height = siblingHeight + 'px';
