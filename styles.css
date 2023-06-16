@@ -100,16 +100,14 @@
     }
 @media screen and (max-width: 767px) {
   .container .popup-text {
-    width: 90%;
-    padding: 10%;
+    width: 95%;
   }
 }
 
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .container .popup-text {
-    width: 70%;
-    padding: 7%;
+    width: 75%;
   }
 }
 
@@ -117,7 +115,6 @@
 @media screen and (min-width: 1024px) {
   .container .popup-text {
     width: 50%;
-    padding: 5%;
   }
 }
 
