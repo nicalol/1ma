@@ -74,7 +74,7 @@
 }
 .container .popup-text .close {
     position: absolute;
-    bottom: 10vh;
+    bottom: 20vh;
     left: 730px;
     font-size: 3em;
     cursor: pointer;
