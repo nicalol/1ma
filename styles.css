@@ -81,6 +81,7 @@
     color: #ff0000;
     transform: translateY(-20vh);
     animation-fill-mode: forwards;
+    transition: transform 0.3s ease;
 }
 
 .container .popup-text p{
