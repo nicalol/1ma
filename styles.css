@@ -60,7 +60,7 @@
 .container .popup-text {
  position: fixed;
  top: -100%;
- left: 35%;
+ left: 30%;
  transform: translate(-50%, -50%);
  width: 30vm;
     height: 30vm;
@@ -74,7 +74,7 @@
 }
 .container .popup-text .close {
     position: absolute;
-    bottom: 90vm;
+    bottom: 90vh;
     left: 730px;
     font-size: 3em;
     cursor: pointer;
