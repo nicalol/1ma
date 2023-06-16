@@ -74,11 +74,12 @@
 }
 .container .popup-text .close {
     position: absolute;
-    bottom: 50vh;
+    bottom: 10%;
     left: 730px;
     font-size: 3em;
     cursor: pointer;
     color: #ff0000
+    transform: translateY(-1);
 }
 
 .container .popup-text p{
