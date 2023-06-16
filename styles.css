@@ -78,7 +78,8 @@
     left: 730px;
     font-size: 3em;
     cursor: pointer;
-    color: #ff0000
+    color: #ff0000;
+    transform: translateY(-10vh);
 }
 
 .container .popup-text p{
