@@ -79,7 +79,8 @@
     font-size: 3em;
     cursor: pointer;
     color: #ff0000;
-    transform: translateY(-15vh);
+    transform: translateY(-20vh);
+    animation-fill-mode: forwards;
 }
 
 .container .popup-text p{
@@ -99,7 +100,6 @@
 }
     .container .popup-text .close:hover {
         transform: scale(1.3);
-    transform: translateY(-15vh);
     }
 @media (max-width:768px){
     .container .popup-text text {
