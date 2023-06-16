@@ -99,12 +99,6 @@
         transform: scale(1.3);
     }
 
-@media (max-width:768px){
-    .container .popup-text {
-        width:95%;
-    }
-  }
-
 @keyframes slideIn {
     0% {
         top: -100%; 
